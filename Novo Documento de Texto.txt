@@ -1,0 +1,4 @@
+@echo off
+C:\BOT Whatsapp\Whatsapp-Anime-Bot
+start npm
+pause
